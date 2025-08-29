@@ -37,6 +37,8 @@ internal class Program
         //Console.WriteLine("El resultado de la suma es: " + resultado);
 
 
+        //ss
+
 
 
         var numeros = new List<int> { 8, 5, 9, 34, 2, 26, 8 };
